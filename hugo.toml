@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Sage B2B Playbook"
+theme = "custom"
+
+[params]
+  description = "B2B sales playbooks, ICP frameworks, and prospecting workflows for account executives."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
