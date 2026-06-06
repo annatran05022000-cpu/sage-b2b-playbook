@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Sage B2B Playbook"
 date: 2026-06-01
 description: "B2B sales playbooks, ICP frameworks, and prospecting workflows for account executives."
